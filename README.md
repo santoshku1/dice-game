@@ -1,7 +1,7 @@
 # dice-game
 
 
-##It is a Simple Dice Game ...these ara the following rules:
+## It is a Simple Dice Game ...these ara the following rules:
 
 
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
